@@ -65,7 +65,7 @@ Gespräche laufen mit: Freigeist Capital ✅ · HTGF ⏳ · SPRIND ⏳ · Cavalr
 
 - 📧 kontakt@pidms.de
 - 🌐 [pidms.de/share.html](https://pidms.de/share.html)
-- 💼 [LinkedIn](https://linkedin.com/in/matthias-kochbeck)
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthias-kochbeck-8a25043bb))
 - ☕ [buymeacoffee.com/pidms](https://buymeacoffee.com/pidms)
 
 -----
