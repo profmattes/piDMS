@@ -146,6 +146,7 @@ Actively in conversations with:
 1. 🐛 **Open an Issue** — bug reports or feature requests
 1. 📧 **Email me directly** — kontakt@pidms.de
 1. 💼 **Connect on LinkedIn** — [Matthias Kochbeck](https://linkedin.com/in/matthias-kochbeck)
+1. 🐙 **GitHub** — [github.com/profmattes/piDMS](https://github.com/profmattes/piDMS)
 1. ☕ **Support the project** — [buymeacoffee.com/pidms](https://buymeacoffee.com/pidms)
 
 -----
