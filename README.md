@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![πDMS Banner](https://pidms.de/share.html)
+  (https://pidms.de/share.html)
 
 **The missing bridge between citizens and the state.**
 
